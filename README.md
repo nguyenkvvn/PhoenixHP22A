@@ -10,7 +10,7 @@ In the future, a Target Barrel frame will be released.
 
 You will need the following to complete this:
 - a complete HP22A parts kit.
-- x1 M2 x 16mm Socket Head Cap Screw
+- x1 M2 x 20mm Socket Head Cap Screw
 - x1 M2 x 12mm Socket Head Cap Screw
 - x2 M2 Nuts
 - A punch kit
@@ -39,10 +39,12 @@ Print with the following settings:
 
 4. Dry-cycle the slide to remove any aberrations that may cause the slide to bind. (Basically, break it in.)
 
-### Installing the Trigger
-1. The thinnest silver pin is the pin for the trigger.
+### Installing the Trigger, Trigger Return Spring, and Barrel Mounting Pin
+1. The thinnest silver pin is the pin for the trigger, and the smallest coil spring with a short+long arm is the trigger return spring.
 2. Coming in from the _top_ of the frame, insert the trigger shoe into the trigger cut. Gently manuver the firing arm into the cutout on the right of the frame (barrel pointing to your right).
-3. Gently tap through the pin for the trigger, using your smallest punch to hold the trigger in place as you are tapping the pin.
+3. Using a pair of tweezers or pliers, insert the _short arm_ of the trigger return spring into the shoe. It may help to use the punch to stake and hold the trigger shoe in place while you do this.
+4. Gently tap through the pin for the trigger, using your smallest punch to hold the trigger in place as you are tapping the pin.
+5. Tap in the Barrel Mounting Pin, ensuring that the long arm of the trigger return spring is _under_ the pin.
 
 ### Installing the Extractor and Sear
 1. Place the extractor in the cut-out in the rear of the frame, ensuring that the pin holes for the extractor line up with the pin holes in the rear of the frame.
@@ -64,7 +66,7 @@ Print with the following settings:
 ### Installing the Disconnector Arm
 1. Insert the disconnector arm into the frame from the top, with the pin hole of the arm seating into the pocket.
 2. Ensure that the lip of the arm (away from the pin) is resting on top of the trigger bar.
-3. Insert the M2 x 16mm screw through the disconnector pin, and place the nut on the left of the frame.
+3. Insert the M2 x 20mm screw through the disconnector pin, and place the nut on the left of the frame.
 4. Tighten to snug, but not binding.
 5. Test the movement of the disconnector arm. It should move without resistiance.
 
