@@ -5,8 +5,8 @@ This frame is unique in that it may be the smallest 3D-printable firearm. The ba
 * frame safeties deleted
 * trigger guard hook
 * reinforced upper frame
-
-In the future, a Target Barrel frame will be released.
+* beveled magwell
+* optional picatinny rails
 
 You will need the following to complete this:
 - a complete HP22A parts kit.
