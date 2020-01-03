@@ -14,7 +14,7 @@ You will need the following to complete this:
 - x1 M2 x 12mm Socket Head Cap Screw
 - x2 M2 Nuts
 - A punch kit
-- Gundam-sized conical hand files
+- Gundam-sized conical hand files, and a similar sized flat file
 - Needle nose pliers
 
 Print with the following settings:
@@ -35,7 +35,7 @@ Print with the following settings:
 2. Pre-score the pin holes.
   (Do this by gently tapping all the pins through their respective holes. They should slip through snugly, but not with a lot of resistiance.)
 
-3. Dry-fit the barrel to make sure it can go in and out easily.
+3. Dry-fit the barrel to make sure it can go in and out easily. Be sure the barrel lays perfectly parallel and is not angled up in any way. (If it is, gently file the sides of where the barrel's base seats above the trigger guard.)
 
 4. Dry-cycle the slide to remove any aberrations that may cause the slide to bind. (Basically, break it in.)
 
@@ -47,7 +47,7 @@ Print with the following settings:
 5. Tap in the Barrel Mounting Pin, ensuring that the long arm of the trigger return spring is _under_ the pin.
 
 ### Installing the Extractor and Sear
-1. Place the extractor in the cut-out in the rear of the frame, ensuring that the pin holes for the extractor line up with the pin holes in the rear of the frame.
+1. Place the extractor in the cut-out in the rear of the frame, ensuring that the pin holes for the extractor line up with the pin holes in the rear of the frame. It **must** be perfectly flush with the wall of the frame.
 2. Gently tap the _sear pin_ partially through the left of the frame, to hold the extractor in place.
 3. Take the sear, and manuver it so that its arms are visible and places in the clearance cuts on the grips. Using a punch, align it to the sear pin on the extractor.
 4. Gently tap the sear pin all the way through, ensuring that the sear pin is _between the "grips" on both sides of the frame._ This is important, because the sear pin sits between the slide's cuts.
@@ -62,6 +62,17 @@ Print with the following settings:
 3. Take the hammer spring rod- it has an end with a circle. Insert the end without the circle down into the spring from the top of the frame, with the curvature of the end with the circle pointing _away_ from the barrel. *Protip: have a punch the size of the trigger pin handy in your mouth.*
 4. Now take the hammer, and seat the circular part of the hammer rod into the hammer. Using one finger inside the magwell, hold the spring against the backstrap as you push the hammer (in non-cocked position straight down!) and hammer rod down into the frame, compressing the spring. Remember that punch in your mouth? Using your hands to line up the pin hole for the hammer to hold it in place.
 5. Insert the hammer pin, from one end, and tap it through the frame, using the punch to guide the hammer's pin hole so the pin slides through.
+
+### Compressing and fitment the fire control group
+Even though there are cut-outs for the widened areas of the sear and hammer are made, the nature of 3D printing means that the tolerances aren't exactly perfect. Hence, we need to "compress" the frame and break in the parts.
+
+1. Using the plastic side of your ball-and-peen hammer, gently tap the _wall_ of the left and right side in the area where the hammer and sear are. **Be sure not to hit the rails- you can snap them off!** This will reduce the extra width of the frame caused by the fire controls, which will bind the slide.
+2. Fitment check the slide to make sure it's able to move without binding against the walls. (Gently binding against the hammer is okay.)
+3. If the slide still binds, file these areas:
+- use the conical file to slightly carve out a concave stream on the _rail_ wall.
+- use the flat file to sand down the outer "T"'s of the rails
+- use the flat file to sand down the lower rail above the hammer pin. (Not the raised grip part, but above it.)
+4. Rinse and repeat until you are able to move the slide reasonably.
 
 ### Installing the Disconnector Arm
 1. Insert the disconnector arm into the frame from the top, with the pin hole of the arm seating into the pocket.
