@@ -6,7 +6,12 @@ This frame is unique in that it may be the smallest 3D-printable firearm. The ba
 * trigger guard hook
 * reinforced upper frame
 * beveled magwell
-* optional picatinny rails
+* picatinny rails (for Target Frame and Service Weapon Frame only)
+
+There are three frames to choose from:
+* **Standard frame** - maintains the same profile and size of the HP22A
+* **Target frame** - Adds a picatinny rail and support for the HP22A's Target barrel
+* **Service Weapon frame** - Includes Target Frame features, but adds a swiveling brace/stock assembly. Experimental.
 
 You will need the following to complete this:
 - a complete HP22A parts kit.
